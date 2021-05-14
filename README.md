@@ -3,7 +3,7 @@ My name is Seung Heo.
 
 I'm currently actively seeking a full time **back-end software engineer** opportunity.
 
-I love Python, Cloud, etc and like studying Computer Architecture, Operating System, Web Development.
+I love Python, Backend development, etc and like studying Computer Architecture, Operating System, Web Development.
 Also, I have no fear of learning new technolgies(New Programming Language, New Framework, etc.)
 
 If you are interested in me, Please contact me by email or just chat me.
