@@ -1,4 +1,4 @@
-Hi there 👋
+## Hi there 👋
 My name is Seung Heo. 
 
 I'm currently actively seeking a full time **back-end software engineer** opportunity.
