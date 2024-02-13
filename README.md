@@ -1,9 +1,9 @@
 ## Hi there 👋
 My name is Seung Heo, Ex-Product Manager, Currently Software Engineer.
 
-I specialize in backend development and enjoy learning new concepts.
-My passion lies in mastering new environments, programming languages, and technologies. 
-Currently, I'm focused on system design and writing highly efficient code.
+1. I specialize in backend development and enjoy learning new concepts.
+2. My passion lies in mastering new environments, programming languages, and technologies. 
+3. Currently, I'm focused on system design and writing highly efficient code.
 
 If you are interested in me, Please contact me by email or just chat me.
 For more details, here is my [LinkedIn](https://www.linkedin.com/in/seunghuh/) profile.
